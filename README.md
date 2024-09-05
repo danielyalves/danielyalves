@@ -3,6 +3,7 @@
 - Estou estudando na alura
 - Estou me desenvolvendo na linguagem JavaScript
 
-  ![](https://tenor.com/pt-BR/view/kisses-gif-23353976)
-  ![](https://tenor.com/pt-BR/view/kawaii-love-you-more-gif-20457470)
+  ![](![image](https://github.com/user-attachments/assets/2b69aa4f-d28c-4821-a4d1-ebd55ad8fe5c)
+
+  ![]()
 
